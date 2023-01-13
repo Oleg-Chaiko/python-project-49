@@ -3,3 +3,7 @@
 
 ### Instal Brain-games:
 [installation and launch](https://asciinema.org/a/kvuIE9AVNVuzpXYjf1g3xCw7y)
+
+### Brain-games:
+[Brain-calc](https://asciinema.org/a/CjRpesTkjnkYO4cf4bFCGbWnR
+)

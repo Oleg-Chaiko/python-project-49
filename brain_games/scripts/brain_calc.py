@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from brain_games.engine import even
+from brain_games.engine import calc
 
 
 def main():
     print("Welcome to the Brain Games!")
-    even()
+    calc()
 
 
 if __name__ == '__main__':
