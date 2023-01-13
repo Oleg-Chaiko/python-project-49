@@ -3,6 +3,7 @@ from brain_games.games.even import even_game
 from brain_games.games.calc import calc_game
 from brain_games.games.gcd import gcd_game
 from brain_games.games.progression import progression_game
+from brain_games.games.prime import prime_game
 
 
 def welcome_user():
@@ -52,3 +53,9 @@ def progression():
     welcome_user()
     print('What number is missing in the progression?')
     brain(progression_game)
+
+
+def prime():
+    welcome_user()
+    print('Answer "yes" if given number is prime. Otherwise answer "no"')
+    brain(prime_game)
