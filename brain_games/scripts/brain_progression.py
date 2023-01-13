@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from brain_games.engine import gcd
+from brain_games.engine import progression
 
 
 def main():
     print("Welcome to the Brain Games!")
-    gcd()
+    progression()
 
 
 if __name__ == '__main__':

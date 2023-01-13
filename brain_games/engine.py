@@ -2,6 +2,7 @@ import prompt
 from brain_games.games.even import even_game
 from brain_games.games.calc import calc_game
 from brain_games.games.gcd import gcd_game
+from brain_games.games.progression import progression_game
 
 
 def welcome_user():
@@ -46,3 +47,8 @@ def gcd():
     print('Find the greatest common divisor of given numbers.')
     brain(gcd_game)
 
+
+def progression():
+    welcome_user()
+    print('What number is missing in the progression?')
+    brain(progression_game)
