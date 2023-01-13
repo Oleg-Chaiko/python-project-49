@@ -1,6 +1,7 @@
 import prompt
 from brain_games.games.even import even_game
 from brain_games.games.calc import calc_game
+from brain_games.games.gcd import gcd_game
 
 
 def welcome_user():
@@ -38,3 +39,10 @@ def calc():
     welcome_user()
     print('What is the result of the expression?')
     brain(calc_game)
+
+
+def gcd():
+    welcome_user()
+    print('Find the greatest common divisor of given numbers.')
+    brain(gcd_game)
+

@@ -7,3 +7,4 @@
 ### Brain-games:
 [Brain-calc](https://asciinema.org/a/CjRpesTkjnkYO4cf4bFCGbWnR
 )
+[brain-gcd](https://asciinema.org/a/Mf62oEE0pAlvkBcDDMErfvNOu)
