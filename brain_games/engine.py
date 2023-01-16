@@ -57,5 +57,5 @@ def progression():
 
 def prime():
     welcome_user()
-    print('Answer "yes" if given number is prime. Otherwise answer "no"')
+    print('Answer "yes" if given number is prime. Otherwise answer "no".')
     brain(prime_game)
