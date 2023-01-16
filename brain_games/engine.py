@@ -25,7 +25,7 @@ def brain(game):
         else:
             print(f"'{ansver}' is wrong abswer ;(. \
 Correct answer was '{corect_ansver}'")
-            print(f"Let's try again, {name}")
+            print(f"Let's try again, {name}!")
             break
     else:
         print(f'Congratulations, {name}!')
